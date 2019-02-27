@@ -1,4 +1,4 @@
-*Notably, we release our docker image at https://drive.google.com/open?id=1HcmskGKFo3Mpf7qmV9Bn2UyyHrx7koS6 because of the limitation on repository size.
+*Notably, we release our docker image at https://drive.google.com/open?id=1HcmskGKFo3Mpf7qmV9Bn2UyyHrx7koS6 because of the file and repository size limitations posted by Github.
 
 ## Experiment Replication
 With the image, one can easily replicate our evaluation on HeeNAMA and baseline approaches following these steps.
