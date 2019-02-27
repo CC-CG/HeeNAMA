@@ -1,4 +1,4 @@
-*Notably, the docker image is decomposed into a sequece of RAR packages because of the limitation on document size.  Github refuses documents that  are larger than 100MB.  You can recover the complete docker image by uncompressing the first RAR package (docker_image.part01.rar) when all RAR packages are downloaded to the same folder.
+*Notably, we release our docker image at https://drive.google.com/open?id=1HcmskGKFo3Mpf7qmV9Bn2UyyHrx7koS6 because of the limitation on repository size.
 
 ## Experiment Replication
 With the image, one can easily replicate our evaluation on HeeNAMA and baseline approaches following these steps.
