@@ -52,7 +52,7 @@ under the License.
     <classWorldsVersion>2.5.2</classWorldsVersion>
     <commonsCliVersion>1.4</commonsCliVersion>
     <commonsLangVersion>3.5</commonsLangVersion>
-    <junitVersion>4.12</junitVersion>
+    <junitVersion>4.13.1</junitVersion>
     <mockitoVersion>1.10.19</mockitoVersion>
     <plexusVersion>1.7.1</plexusVersion>
     <plexusInterpolationVersion>1.24</plexusInterpolationVersion>
